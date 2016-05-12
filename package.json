@@ -1,10 +1,10 @@
 {
-    "name": "emby.defaultskin",
-    "displayName": "Default Skin",
+    "name": "emby.aloskin",
+    "displayName": "Alos's Skin",
     "version": "1.0.0",
-    "description": "The default Emby skin.",
+    "description": "Alo's Emby skin.",
     "plugin": "plugin.js",
-    "homepage": "https://github.com/MediaBrowser/emby-web-defaultskin",
+    "homepage": "https://github.com/MediaBrowser/emby-web-aloskin",
     "thumb": "",
     "backdrop": ""
 }
